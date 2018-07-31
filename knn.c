@@ -1,3 +1,7 @@
+// this is a program to implement k nearest neighbor 
+// Author: Rajat Sharma
+// Date: march, 2018
+
 #include<stdio.h>
 #include<stdlib.h>
 
